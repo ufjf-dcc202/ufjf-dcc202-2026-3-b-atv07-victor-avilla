@@ -1,0 +1,11 @@
+      body > p > em{
+            background-color: red;
+        }
+        em{
+            color:orange;
+        }
+        code{
+            color:lime;
+            text-decoration:underline;
+            font-family:sans-serif;
+        }
